@@ -1,0 +1,6 @@
+<apex:page controller="Apex1">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Welcome</h1>
+  Hello World
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
